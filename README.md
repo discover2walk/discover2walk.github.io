@@ -1,7 +1,4 @@
-# discover2walk.github.io
-Discover2Walk project web page 
 
-<!doctype html>
 <html lang="es">
 
 <head>
